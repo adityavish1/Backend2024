@@ -1,0 +1,17 @@
+{
+  "name": "bcakend2024",
+  "version": "1.0.0",
+  "description": "I have started to learn Backend in april 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "node",
+    "expres",
+    "etc"
+  ],
+  "author": "Aditya Vishwakarma",
+  "license": "ISC"
+}
